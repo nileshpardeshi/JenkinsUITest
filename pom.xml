@@ -35,6 +35,13 @@
 
 	</dependencies>
 
+	<properties>
+		<sonar.projectKey>nileshpardeshi_JenkinsUITest</sonar.projectKey>
+		<sonar.organization>nileshpardeshi</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>83493857b9a03b5f8d268677c2054a4b07d89ac6</sonar.login>
+	</properties>
+
 	<build>
 		<plugins>
 			<plugin>
